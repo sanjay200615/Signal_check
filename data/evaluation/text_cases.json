@@ -1,0 +1,23 @@
+[
+  {
+    "case_id": "eval_supported_climate",
+    "text": "Earth is warming and human activities are a major contributor to recent warming.",
+    "expected_status": "supported",
+    "evidence_ids": ["nasa-climate_p1"],
+    "notes": "Supported by the NASA climate reference in the local corpus."
+  },
+  {
+    "case_id": "eval_refuted_job_payment",
+    "text": "Honest employers always ask applicants to pay before starting a job.",
+    "expected_status": "refuted",
+    "evidence_ids": ["consumer-ftc-job-scams_p1"],
+    "notes": "Contradicted by FTC job-scam guidance."
+  },
+  {
+    "case_id": "eval_insufficient_school_closure",
+    "text": "The city announced that all public schools will close tomorrow.",
+    "expected_status": "insufficient_evidence",
+    "evidence_ids": [],
+    "notes": "The local corpus does not contain a school-closure announcement."
+  }
+]

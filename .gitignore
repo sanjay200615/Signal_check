@@ -1,0 +1,16 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+
+# Generated retrieval artifacts and local model caches
+data/index/
+models/
+
+# Downloaded evaluation data and reports
+data/eval_cache/
+data/cache/
+reports/
+data/reputation/

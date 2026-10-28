@@ -1,0 +1,20 @@
+[
+  {
+    "case_id": "supported-climate",
+    "text": "Earth is warming and human activities are a major contributor to recent warming.",
+    "expected_status": "supported",
+    "purpose": "The corpus contains official NASA evidence that supports this claim."
+  },
+  {
+    "case_id": "refuted-job-payment",
+    "text": "Honest employers always ask applicants to pay before starting a job.",
+    "expected_status": "refuted",
+    "purpose": "FTC guidance says honest employers will never ask applicants to pay to get a job."
+  },
+  {
+    "case_id": "insufficient-school-closure",
+    "text": "The city announced that all public schools will close tomorrow.",
+    "expected_status": "insufficient_evidence",
+    "purpose": "The controlled corpus contains no announcement verifying this schedule."
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "document_id": "cdc-handwashing",
+    "title": "Handwashing: Clean Hands Save Lives",
+    "source_name": "Centers for Disease Control and Prevention",
+    "source_url": "https://www.cdc.gov/clean-hands/about/index.html",
+    "published_date": null,
+    "retrieved_date": "2026-10-27",
+    "source_type": "official_health_guidance",
+    "trust_notes": "Official public-health guidance from the United States CDC.",
+    "text": "Washing your hands with soap and water is one of the best ways to protect yourself and others from getting sick. Clean hands can stop the spread of germs from one person to another and throughout an entire community. If soap and water are not available, use an alcohol-based hand sanitizer that contains at least 60 percent alcohol."
+  },
+  {
+    "document_id": "cdc-antibiotics",
+    "title": "Antibiotics and Antimicrobial Resistance",
+    "source_name": "Centers for Disease Control and Prevention",
+    "source_url": "https://www.cdc.gov/antibiotic-use/about/index.html",
+    "published_date": null,
+    "retrieved_date": "2026-10-27",
+    "source_type": "official_health_guidance",
+    "trust_notes": "Official public-health guidance from the United States CDC.",
+    "text": "Antibiotics do not work on viruses, such as those that cause colds, flu, or COVID-19. Antibiotics are medicines that fight infections caused by bacteria in people and animals. Using antibiotics when they are not needed can cause side effects and contribute to antimicrobial resistance."
+  },
+  {
+    "document_id": "reference-insufficient-schools",
+    "title": "Evidence Corpus Scope Note",
+    "source_name": "Prototype evidence corpus",
+    "source_url": null,
+    "published_date": null,
+    "retrieved_date": "2026-10-27",
+    "source_type": "scope_note",
+    "trust_notes": "This document records corpus scope; it is not evidence about school closures.",
+    "text": "This prototype corpus contains selected public-health guidance for demonstrating evidence retrieval. It does not contain announcements about local school closures, city policies, or tomorrow's schedules."
+  },
+  {
+    "document_id": "consumer-ftc-imposter-scams",
+    "title": "Imposter Scams",
+    "source_name": "Federal Trade Commission",
+    "source_url": "https://consumer.ftc.gov/articles/imposter-scams",
+    "published_date": null,
+    "retrieved_date": "2026-10-27",
+    "source_type": "official_consumer_guidance",
+    "trust_notes": "Official consumer-protection guidance from the United States FTC.",
+    "text": "Imposter scammers pretend to be someone you know or trust to convince you to send money or personal information. A government impersonator may say you owe money or need to pay a fine. The FTC advises people not to send money or give personal information in response to an unexpected request."
+  },
+  {
+    "document_id": "consumer-ftc-job-scams",
+    "title": "Job Scams",
+    "source_name": "Federal Trade Commission",
+    "source_url": "https://consumer.ftc.gov/articles/job-scams",
+    "published_date": null,
+    "retrieved_date": "2026-10-27",
+    "source_type": "official_consumer_guidance",
+    "trust_notes": "Official consumer-protection guidance from the United States FTC.",
+    "text": "Honest employers will never ask you to pay to get a job. If an employer asks you to pay for training, equipment, or supplies before you start work, it may be a job scam. Research the company and be cautious about unexpected job offers that request money or personal information."
+  },
+  {
+    "document_id": "cisa-phishing",
+    "title": "Recognize and Report Phishing",
+    "source_name": "Cybersecurity and Infrastructure Security Agency",
+    "source_url": "https://www.cisa.gov/topics/cyber-threats-and-advisories/malicious-cyber-activity",
+    "published_date": null,
+    "retrieved_date": "2026-10-27",
+    "source_type": "official_cybersecurity_guidance",
+    "trust_notes": "Official cybersecurity guidance from the United States CISA.",
+    "text": "Phishing is a form of cybercrime in which targets are contacted by email, telephone, or text message by someone posing as a legitimate person or organization. The goal is often to persuade the target to reveal sensitive information, click a malicious link, or provide access to systems."
+  },
+  {
+    "document_id": "nasa-climate",
+    "title": "The Effects of Climate Change",
+    "source_name": "National Aeronautics and Space Administration",
+    "source_url": "https://science.nasa.gov/climate-change/evidence/",
+    "published_date": null,
+    "retrieved_date": "2026-10-27",
+    "source_type": "official_scientific_reference",
+    "trust_notes": "Official scientific reference material from NASA.",
+    "text": "The evidence for rapid climate change is compelling. Earth is warming, sea levels are rising, and the planet's ice sheets are shrinking. Multiple lines of evidence show that the climate is changing and that human activities are a major contributor to recent warming."
+  },
+  {
+    "document_id": "fema-disaster-assistance",
+    "title": "Disaster Assistance",
+    "source_name": "Federal Emergency Management Agency",
+    "source_url": "https://www.fema.gov/assistance",
+    "published_date": null,
+    "retrieved_date": "2026-10-27",
+    "source_type": "official_public_safety_guidance",
+    "trust_notes": "Official disaster-assistance information from the United States FEMA.",
+    "text": "FEMA provides financial assistance and direct services to eligible individuals and households affected by a declared disaster. Eligibility and available assistance depend on the specific disaster and the applicant's circumstances. People should use official FEMA channels to check application information."
+  }
+]
